@@ -1,1 +1,2 @@
-# CS383-project
+#CS383-project
+universty course registration system
